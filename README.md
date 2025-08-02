@@ -60,4 +60,22 @@ While this tool is suitable for general use, do not rely on it for highly sensit
 
 This project is licensed under the MIT License.
 
+# 🙌 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+Fork the project
+
+Create your feature branch (git checkout -b feature/feature-name)
+
+Commit your changes (git commit -m 'Add new feature')
+
+Push to the branch (git push origin feature/feature-name)
+
+Open a Pull Request
+
+# 👤 Author
+
+Barsha Mondal
+
 
