@@ -56,4 +56,8 @@ Technology      	                   Description
 
 While this tool is suitable for general use, do not rely on it for highly sensitive applications unless you've reviewed and tested the source code thoroughly.
 
+# 📄 License
+
+This project is licensed under the MIT License.
+
 
