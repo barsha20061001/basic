@@ -8,6 +8,8 @@ A sleek and modern Password Generator built with ⚛️ React, ⚡ Vite, and �
 # 📸 Preview 
 
 
+<img width="670" height="267" alt="Screenshot 2025-08-02 214501" src="https://github.com/user-attachments/assets/15c66d81-9983-4ad9-acb4-ec4bb05fb892" />
+
 
 # ✨ Features
 
