@@ -7,7 +7,9 @@ A sleek and modern Password Generator built with ⚛️ React, ⚡ Vite, and �
 # ✨ Features
 
 ✅ Generate strong, random passwords
+
 ✅ Customize password length
+
 ✅ Toggle character types:
 
 🔡 Lowercase letters
@@ -19,7 +21,9 @@ A sleek and modern Password Generator built with ⚛️ React, ⚡ Vite, and �
 🔣 Special symbols
 
 ✅ Copy password to clipboard with one click
+
 ✅ Fully responsive and mobile-friendly UI
+
 ✅ Built with modern tools and optimized for performance
 
 
