@@ -57,19 +57,33 @@ Technology      	                   Description
 password-generator/
 │
 ├── src/                    # Source code
+
 │   ├── assets/             # Images, icons, etc.
+
 │   ├── components/         # Reusable React components
+
 │   │   └── PasswordGenerator.jsx
+
 │   ├── App.jsx             # Root component
+
 │   ├── main.jsx            # Entry point for React + Vite
+
 │   └── index.css           # Tailwind CSS imports
+
 │
+
 ├── .gitignore              # Git ignored files
+
 ├── index.html              # HTML template
+
 ├── package.json            # NPM package file
+
 ├── postcss.config.js       # PostCSS configuration for Tailwind
+
 ├── tailwind.config.js      # Tailwind CSS config
+
 ├── vite.config.js          # Vite build config
+
 └── README.md               # Project documentation
 
 
