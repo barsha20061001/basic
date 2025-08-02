@@ -52,3 +52,8 @@ Technology      	                   Description
 4. Optionally, click "Copy" to save it to your clipboard.
 
 
+# 🛡️ Security Note
+
+While this tool is suitable for general use, do not rely on it for highly sensitive applications unless you've reviewed and tested the source code thoroughly.
+
+
