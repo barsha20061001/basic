@@ -41,4 +41,14 @@ Technology      	                   Description
 
 🧱 HTML & CSS             	Markup and fallback styling
 
+# ✨ Usage
+
+1. Choose your desired password length.
+
+2. Select which character types to include.
+
+3. Click "Generate Password".
+
+4. Optionally, click "Copy" to save it to your clipboard.
+
 
