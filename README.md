@@ -55,7 +55,9 @@ Technology      	                   Description
 # 🧱 Project Structure
 
 password-generator/
+
 │
+
 ├── src/                    # Source code
 
 │   ├── assets/             # Images, icons, etc.
