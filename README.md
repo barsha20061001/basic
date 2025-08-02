@@ -5,6 +5,10 @@ A sleek and modern Password Generator built with ⚛️ React, ⚡ Vite, and �
 
 [Click Here](https://basic-yssf.vercel.app/)
 
+# 📸 Preview 
+
+
+
 # ✨ Features
 
 ✅ Generate strong, random passwords
